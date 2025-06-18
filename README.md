@@ -21,4 +21,3 @@ I'm a developer focused on building web applications and tools that solve real p
 ---
 > “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
 
----
