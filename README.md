@@ -19,5 +19,6 @@ I'm a developer focused on building web applications and tools that solve real p
 - 🌐 Continuous improvements on full-stack projects (APIs, dashboards, developer tools)
 
 ---
+> “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
 
-> Clean code, curious mind, always shipping. 🚀
+---
