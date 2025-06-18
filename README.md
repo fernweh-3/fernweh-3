@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, there
 
-<!--
-**fernweh-3/fernweh-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building web applications and tools that solve real problems. I enjoy working across the stack and exploring how systems come together.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Back-end:** Java (Spring Boot), Python (Flask, FastAPI), Go (learning...)
+- **Front-end:** TypeScript (React)
+- **Tools:** Docker, Git, MySQL, Redis
+
+---
+
+## 🚧 What I'm working on
+
+- 🔬 A testing tool for **Hyperledger Fabric smart contracts**
+- 📊 A general **optimization service for mathematical problems**, integrating with **COBRA** reconstruction models
+- 🌐 Continuous improvements on full-stack projects (APIs, dashboards, developer tools)
+
+---
+
+> Clean code, curious mind, always shipping. 🚀
